@@ -6,7 +6,12 @@ If it helps you can think of this as a variation on Conway's Game of Life. You w
 ## Get started
 
 - Clone this repo
-- Try running the app with the default configuration
+- Try running the app with the default configuration *currently set in main*
+
+
+```
+lein run
+```
 
 ``` clojure
 {:dedicated true ;; begin with a deddicated lover
@@ -15,8 +20,4 @@ If it helps you can think of this as a variation on Conway's Game of Life. You w
  :uniqueness true ;; determines how unique the board players are
  :message-type "feels" ;; decides the game message type which is used for internal communications
  }
-```
-
-```
-lein run
 ```
