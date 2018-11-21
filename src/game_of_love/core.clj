@@ -17,5 +17,5 @@
   (game-of-love {:dedicated true
                  :basic-rules true
                  :thoughts 6
-                 :uniqueness true
+                 :uniqueness 45
                  :message-type "feels"}))
