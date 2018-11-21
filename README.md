@@ -17,7 +17,7 @@ lein run
 {:dedicated true ;; begin with a deddicated lover
  :basic-rules true ;; for now the basic rules need to be true (more rules later!)
  :thoughts 6 ;; sets the thought variations for the game (beta)
- :uniqueness true ;; determines how unique the board players are
+ :uniqueness 45 ;; determines how unique the board players are (0 - 100)
  :message-type "feels" ;; decides the game message type which is used for internal communications
  }
 ```
