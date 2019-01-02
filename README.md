@@ -1,5 +1,8 @@
 ## Game of Love
 
+> This is just me doing a little test work with magit. This seemed like as fitting a place as any for a real world test. 
+
+
 If it helps you can think of this as a variation on Conway's Game of Life. You will pick up on the variations quickly. This is the first iteration and needs a lot of work.
 
 
